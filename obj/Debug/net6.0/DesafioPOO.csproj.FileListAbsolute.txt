@@ -1,0 +1,15 @@
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.deps.json
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.runtimeconfig.json
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.dll
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.pdb
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.AssemblyReference.cache
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfoInputs.cache
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfo.cs
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.dll
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/refint/DesafioPOO.dll
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.pdb
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.genruntimeconfig.cache
+/Users/allanseleguim/Documents/Projetos/trilha-net-poo-desafio/obj/Debug/net6.0/ref/DesafioPOO.dll
